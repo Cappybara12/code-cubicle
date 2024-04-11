@@ -1640,6 +1640,16 @@ h6 {
   padding: 60px 0;
 }
 
+#Prizes .btn {
+  background: rgba(6, 12, 34, 0.98);
+  color: #fff;
+  padding: 15px 30px;
+  font-size: 18px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease-in-out;
+}
+
+
 #row {
   display: flex;
   flex-direction: row;
